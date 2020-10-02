@@ -1,0 +1,22 @@
+{
+  "name": "static_website",
+  "version": "1.0.0",
+  "description": "A static website that will be served by a server built on node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvik-pl/static_website.git"
+  },
+  "author": "Souvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souvik-pl/static_website/issues"
+  },
+  "homepage": "https://github.com/souvik-pl/static_website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
